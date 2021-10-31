@@ -1,4 +1,4 @@
-package Animalproject1;
+package game;
 
 public class Cat extends Animal {
 

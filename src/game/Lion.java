@@ -1,4 +1,4 @@
-package Animalproject1;
+package game;
 
 public class Lion extends Animal{
     public Lion(String nameOfAnimal, String gender, int priceOfAnimal) {

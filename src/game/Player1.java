@@ -1,4 +1,4 @@
-package Animalproject1;
+package game;
 
 public class Player1 {
     private String nameOfPlayer1;

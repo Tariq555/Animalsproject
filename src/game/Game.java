@@ -1,4 +1,4 @@
-package Animalproject1;
+package game;
 
 import java.util.Scanner;
 

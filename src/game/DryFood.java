@@ -1,4 +1,4 @@
-package Animalproject1;
+package game;
 
 public class DryFood extends Food {
     public DryFood(String nameOfFood, int priceOfFood) {
